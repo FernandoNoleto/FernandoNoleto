@@ -62,19 +62,19 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.java.com" target="_blank">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
 </a>
 
 <a href="https://www.linux.org/" target="_blank">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="40" height="40"/>
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="40" height="40"/>
 </a>
 
 </p>
