@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning **Flutter, React Native, Native Android and Mobile programming**
 
-- 📧 How to reach me **fernando.barroso.noleto@gmail.com**
+- 📧 How to reach me **nando.bnoleto@gmail.com**
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
